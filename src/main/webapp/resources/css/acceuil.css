@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+body{
+	background-color: orange;
+}
+
+.container{
+	margin: auto;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.textBienvenu{
+	display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-family: monospace;
+}
+
+.btn{
+	padding: 10px;
+    border-radius: 10px;
+    border-width: 0px;
+    margin: 10px;
+    width: 200px;
+    margin: 9px;
+    justify-content: center;
+    display: flex;
+    background: brown;
+    color: blanchedalmond;
+}
+
